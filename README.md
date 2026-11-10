@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lggeorgieva
 - 👀 I’m interested in modelling and reasoning.
-- 🌱 I’m currently learning.
+- 🌱 I’m learning.
 - 💞️ I would collaborate on projects related to big data, NLP or reasoning.
 - 📫 How to reach me: lggeorgieva@gmail.com
 
