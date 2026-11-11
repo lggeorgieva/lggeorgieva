@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lggeorgieva
 - 👀 I’m interested in correctness of modelling and reasoning,
 - 🌱 I’m learning.
-- 💞️ Happy to collaborate on projects related to big data, NLP or reasoning.
+- 💞️ Happy to collaborate on projects related to big data, NLP or symbolic computation.
 - 📫 How to reach me: lggeorgieva@gmail.com
 
 <!---
