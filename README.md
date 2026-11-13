@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @lggeorgieva
-- 👀 I’m interested in correctness of modelling and reasoning,
-- 🌱 I’m learning.
+- 👀 Working on formal methods and verification, AI and semantic modelling, enterprise architecture.
+- 🌱 Tech stack and tools: C#, Python, Java, Prolog, SQL, R.
+- 📖 Architecture and cloud: Docker, Kubernetis, Kafka, Microservices.
+- 🛠️ Analytics and research: Knowledge graphs, Power BI, DAX
 - 💞️ Happy to collaborate on projects related to big data, NLP or symbolic computation.
 - 📫 How to reach me: lggeorgieva@gmail.com
-
+- [Lilia's GitHub Stats: //github-readme-stats.vercel.app/api?username=lggeorgieva&show_icons =true& theme = default & show_border= true 
 <!---
 lggeorgieva/lggeorgieva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
