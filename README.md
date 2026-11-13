@@ -5,6 +5,8 @@
 - 🛠️ Research and analytics: Knowledge graphs, Ontologies, Theorem proving, LaTex.
 - 💞️ Happy to collaborate on projects related to big data, NLP, verification or symbolic computation.
 - 📫 How to reach me: lggeorgieva@gmail.com
+- The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-Full%20Stack-A9792B?style=flat&logo=theodinproject&logoColor=white]
+
   
 ![Lilia's GitHub Stats](https://streak-stats.demolab.com?user=lggeorgieva&hide_border=true)
 <!---
