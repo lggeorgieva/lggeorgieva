@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lggeorgieva
+- 👋 Hi, I’m Lilia
 - 👀 Working on formal methods and verification, AI and semantic modelling, enterprise architecture.
 - 🌱 Tech stack and tools: C#, Python, Java, C, Prolog, SQL, R.
 - 📖 Architecture and cloud: Docker, Kubernetis, Kafka, Microservices, Grafana.
