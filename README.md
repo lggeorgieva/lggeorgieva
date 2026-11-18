@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lilia!
 - 👀 Working on formal methods and verification, AI and semantic modelling, enterprise architecture.
 - 🌱 Tech stack and tools: C#, Python, Java, C, Prolog, SQL, R.
-- 📖 Architecture and cloud: Docker, Kubernetis, Kafka, Microservices, Grafana.
+- 📖 Architecture and cloud: Docker, Kubernetes, Kafka, Microservices, Grafana.
 - 🛠️ Research and analytics: Knowledge graphs, Ontologies, Theorem proving.
 - 💞️ Happy to collaborate on projects related to big data, NLP, verification or symbolic computation.
 - 📫 How to reach me: lggeorgieva@gmail.com
